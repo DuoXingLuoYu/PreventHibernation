@@ -4,5 +4,5 @@
 可以调节的相关参数包括：频率、音量、单次播放时长、循环周期。
 也可以最小化到托盘。
 对华为mini蓝牙音箱，建议参数如下：
-<img width="198" height="347" alt="Image" src="https://github.com/user-attachments/assets/2b823b83-4a5f-4df1-86d1-154811a51cba" />
+<hr><img width="198" height="347" alt="Image" src="https://github.com/user-attachments/assets/2b823b83-4a5f-4df1-86d1-154811a51cba" /><hr>
 第一次使用面向大模型编程做出了一个个人还行的作品，若有问题请多包涵。
